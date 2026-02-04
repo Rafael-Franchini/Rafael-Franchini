@@ -1,12 +1,12 @@
 ### Olá, Eu sou o Rafael Franchini 👋
 
 
-- 🌱 Desenvolvimento mobile com Flutter/Dart
-- 🌱 Conhecimentos em Front-End
-- 👨‍🎓 Cursando Engenharia da computação na FHO 6° de 6 anos ...
-- 🎴 Designer grafico (DDQ)
-- Link Portifolio https://keepo.io/rafael_franchini/
-
+- 📱 Desenvolvimento Mobile com Flutter/Dart
+- 💻 Desenvolvimento Front-End
+- 💡 Integração com Microcontroladores e sistemas IOT
+- 👨‍🎓 Engenharia da computação na FHO 
+- 🎴 UI/UX 
+- ▶️ PlayStore: https://play.google.com/store/apps/dev?id=7470205873537043820
 
 
 <div>
@@ -24,6 +24,10 @@
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/flutter.png"> 
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"> 
   <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"> 
+  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> 
+  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000">
+  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=nUFOCFvI5eIk&format=png&color=000000"> 
+   
   </div>
   
   <div>
@@ -34,19 +38,24 @@
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" />
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" />
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
     
   </div>
   <div>
     Design: 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
  <div><div>
     Ferramentas: 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/office-365.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/android-studio--v3.png"/>
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000"/>
+    <img align="center" alt="Rafa-html" height="40px" width="60px" src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1-768x521.png"/>
+    
+ </div><div>
+   Sistemas: 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/windows-10.png"/>
  <div>
