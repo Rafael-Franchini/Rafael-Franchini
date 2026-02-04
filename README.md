@@ -18,13 +18,13 @@
           <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-franchini&layout=compact&langs_count=16&theme=codeSTACKr"/>
           </div>
   </div>
-  
+  <div>
   Principais:
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/dart.png"> 
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/flutter.png"> 
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"> 
   <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"> 
-  
+  </div>
   
   <div>
     Extras:
@@ -32,12 +32,17 @@
     <img align="center" alt="Rafa-css" height="40px" width="40px" src="https://img.icons8.com/color/344/css3.png"> 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" />
     
   </div>
   <div>
-    Ferramentas: 
+    Design: 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
+ <div><div>
+    Ferramentas: 
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/office-365.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/android-studio--v3.png"/>
@@ -49,6 +54,7 @@
     Databases:
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/mysql-logo.png" />
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" /> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000" /> 
  <div>
   
 
