@@ -1,87 +1,45 @@
 ### Olá, Eu sou o Rafael Franchini 👋
 
+- 📱 **Desenvolvimento Mobile com Flutter/Dart** (Apps na PlayStore)
+- 💻 **Desenvolvimento Web & Full-Stack** (React, Laravel, jQuery)
+- 💡 **Integração com Microcontroladores e sistemas IOT**
+- 👨‍🎓 **Engenharia da computação na FHO**
+- 🎴 **UI/UX**
+- ▶️ **PlayStore:** [Meus Apps](https://play.google.com/store/apps/dev?id=7470205873537043820)
 
-- 📱 Desenvolvimento Mobile com Flutter/Dart
-- 💻 Desenvolvimento Front-End
-- 💡 Integração com Microcontroladores e sistemas IOT
-- 👨‍🎓 Engenharia da computação na FHO 
-- 🎴 UI/UX 
-- ▶️ PlayStore: https://play.google.com/store/apps/dev?id=7470205873537043820
+---
 
+### 📊 Estatísticas do GitHub
 
-<div>
-  <div>
-   SKILLS  
-  <div>
-          <a href="">
-           <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Franchini&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>  
-          <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-franchini&layout=compact&langs_count=16&theme=codeSTACKr"/>
-          </div>
-  </div>
-  <div>
-  Principais:
-  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/dart.png"> 
-  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/flutter.png"> 
-  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"> 
-  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"> 
-  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> 
-  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000">
-  <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=nUFOCFvI5eIk&format=png&color=000000"> 
-   
-  </div>
-  
-  <div>
-    Extras:
-    <img align="center" alt="Rafa-js" height="40px" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png">
-    <img align="center" alt="Rafa-css" height="40px" width="40px" src="https://img.icons8.com/color/344/css3.png"> 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
-    
-  </div>
-  <div>
-    Design: 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png"/>
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
- <div><div>
-    Ferramentas: 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/android-studio--v3.png"/>
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/> 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000"/>
-    <img align="center" alt="Rafa-html" height="40px" width="60px" src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1-768x521.png"/>
-    
- </div><div>
-   Sistemas: 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/windows-10.png"/>
- <div>
- <div>
-    Databases:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/mysql-logo.png" />
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" /> 
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000" /> 
- <div>
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Franchini&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-franchini&layout=compact&langs_count=16&theme=codeSTACKr" height="180em"/>
+</p>
 
-</div>
+---
 
-##
+### 🛠️ Toolbox (Tecnologias & Ferramentas)
 
-<div>
-  Contato/Social:
-  <a href="mailto:rflfranchini@gmail.com" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/gmail--v1.png"/></a>
-  <a href="https://www.instagram.com/rafael_franchini/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-  <a href="https://www.instagram.com/rafa.tech01/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-  <a href="https://www.linkedin.com/in/rafael-franchini-37b0a21a4/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=7470205873537043820" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-playstore-social-media-justicon-lineal-color-justicon.png"/></a>
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Principais & Mobile** | <img src="https://img.icons8.com/color/48/dart.png" width="30" title="Dart"/> <img src="https://img.icons8.com/color/48/flutter.png" width="30" title="Flutter"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="30" title="Java"/> <img src="https://img.icons8.com/color/48/kotlin.png" width="30" title="Kotlin"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30" title="C++"/> <img src="https://img.icons8.com/color/48/typescript.png" width="30" title="TypeScript"/> <img src="https://img.icons8.com/color/48/react-native.png" width="30" title="React"/> |
+| **Web & Frameworks** | <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30" title="JS"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="30" title="jQuery"/> <img src="https://img.icons8.com/fluency/48/laravel.png" width="30" title="Laravel"/> <img src="https://img.icons8.com/color/48/php.png" width="30" title="PHP"/> <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30" title="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" width="30" title="CSS3"/> <img src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&format=png&color=000000" width="30" title="Lua"/> |
+| **Databases & Cloud** | <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30" title="MySQL"/> <img src="https://img.icons8.com/color/48/firebase.png" width="30" title="Firebase"/> <img src="https://img.icons8.com/color/48/supabase.png" width="30" title="Supabase"/> <img src="https://img.icons8.com/color/48/postgreesql.png" width="30" title="PostgreSQL"/> |
+| **Sistemas & Tools** | <img src="https://img.icons8.com/color/48/windows-10.png" width="30" title="Windows"/> <img src="https://img.icons8.com/color/48/linux--v1.png" width="30" title="Linux"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" title="VS Code"/> <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="30" title="Android Studio"/> <img src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" width="30" title="Postman"/> <img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" width="30" title="Atlassian"/> |
+| **Design** | <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" width="30" title="Photoshop"/> <img src="https://img.icons8.com/color/48/figma--v1.png" width="30" title="Figma"/> |
 
-##
+---
 
-<div>
-  icons by <a href="https://icons8.com">Icons8</a>
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="mailto:rflfranchini@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/rafael-franchini-37b0a21a4/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
+  <a href="https://www.instagram.com/rafa.tech01/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=7470205873537043820" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-playstore-social-media-justicon-lineal-color-justicon.png" width="40"/></a>
+</p>
+
+---
+<div align="center">
+  <sub>Icons by <a href="https://icons8.com">Icons8</a></sub>
 </div>
