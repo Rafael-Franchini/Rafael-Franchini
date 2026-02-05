@@ -13,9 +13,11 @@
 I am a **Computer Engineering student** at FHO and a **Software Developer** focused on creating high-performance mobile and web solutions. I specialize in the Flutter ecosystem and have a **published app on the Google Play Store**. My expertise also bridges the gap between software and hardware through IoT projects and industrial automation.
 
 * 📱 **Mobile:** Expert in **Flutter & Dart** (Native integration with Java/Kotlin).
-* 💻 **Web:** Full-stack development with **React**, **TypeScript**, **Laravel**, and **jQuery**.
+* 💻 **Web:** Full-stack development with **React**, **TypeScript**, **Laravel**, **jQuery**, and **WordPress**.
+* 🎨 **Styling & UI:** Modern interfaces using **Tailwind CSS**, **Bootstrap**, **HTML5**, and **CSS3**.
 * 💡 **IoT & Systems:** Experience with Microcontrollers (Arduino, ESP32), **C++**, and **Lua**.
 * ☁️ **Cloud & Backend:** Database management with **Firebase**, **Supabase**, and **MySQL**.
+* 🖌️ **Design:** UI/UX prototyping and asset creation with **Figma** and **Photoshop**.
 
 ---
 
@@ -25,9 +27,11 @@ I am a **Computer Engineering student** at FHO and a **Software Developer** focu
 Sou graduando em **Engenharia da Computação** pela FHO e **Desenvolvedor de Software** focado na criação de soluções mobile e web de alta performance. Sou especialista no ecossistema Flutter, com um **aplicativo publicado na Google Play Store**. Minha expertise também une software e hardware através de projetos de IoT e automação industrial.
 
 * 📱 **Mobile:** Especialista em **Flutter & Dart** (Integração nativa com Java/Kotlin).
-* 💻 **Web:** Desenvolvimento Full-stack com **React**, **TypeScript**, **Laravel** e **jQuery**.
+* 💻 **Web:** Desenvolvimento Full-stack com **React**, **TypeScript**, **Laravel**, **jQuery** e **WordPress**.
+* 🎨 **Estilização & UI:** Interfaces modernas usando **Tailwind CSS**, **Bootstrap**, **HTML5** e **CSS3**.
 * 💡 **IoT & Sistemas:** Experiência com Microcontroladores (Arduino, ESP32), **C++** e **Lua**.
 * ☁️ **Cloud & Backend:** Gerenciamento de bancos de dados com **Firebase**, **Supabase** e **MySQL**.
+* 🖌️ **Design:** Prototipagem UI/UX e criação de assets com **Figma** e **Photoshop**.
 
 ---
 
@@ -36,8 +40,10 @@ Sou graduando em **Engenharia da Computação** pela FHO e **Desenvolvedor de So
 | Category / Categoria | Technologies / Tecnologias |
 | :--- | :--- |
 | **Mobile & Core** | <img src="https://img.icons8.com/color/48/dart.png" width="30" title="Dart"/> <img src="https://img.icons8.com/color/48/flutter.png" width="30" title="Flutter"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="30" title="Java"/> <img src="https://img.icons8.com/color/48/kotlin.png" width="30" title="Kotlin"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30" title="C++"/> <img src="https://img.icons8.com/color/48/typescript.png" width="30" title="TypeScript"/> <img src="https://img.icons8.com/color/48/react-native.png" width="30" title="React"/> |
-| **Web Frameworks** | <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30" title="JS"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="30" title="jQuery"/> <img src="https://img.icons8.com/fluency/48/laravel.png" width="30" title="Laravel"/> <img src="https://img.icons8.com/color/48/php.png" width="30" title="PHP"/> <img src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&format=png&color=000000" width="30" title="Lua"/> |
+| **Frameworks & Web** | <img src="https://img.icons8.com/fluency/48/laravel.png" width="30" title="Laravel"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="30" title="jQuery"/> <img src="https://img.icons8.com/color/48/php.png" width="30" title="PHP"/> <img src="https://img.icons8.com/color/48/wordpress.png" width="30" title="WordPress"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30" title="JS"/> <img src="https://img.icons8.com/?size=100&id=vFFJFfHoOHvj&format=png&color=000000" width="30" title="Lua"/> |
+| **UI & Styling** | <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30" title="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" width="30" title="CSS3"/> <img src="https://img.icons8.com/color/48/tailwind_css.png" width="30" title="Tailwind CSS"/> <img src="https://img.icons8.com/color/48/bootstrap.png" width="30" title="Bootstrap"/> |
 | **Cloud & DB** | <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30" title="MySQL"/> <img src="https://img.icons8.com/color/48/firebase.png" width="30" title="Firebase"/> <img src="https://img.icons8.com/color/48/supabase.png" width="30" title="Supabase"/> <img src="https://img.icons8.com/color/48/postgreesql.png" width="30" title="PostgreSQL"/> |
+| **Design & UI** | <img src="https://img.icons8.com/color/48/figma--v1.png" width="30" title="Figma"/> <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" width="30" title="Photoshop"/> |
 | **Systems & Tools** | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="30" title="VS Code"/> <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="30" title="Android Studio"/> <img src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" width="30" title="Postman"/> <img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" width="30" title="Atlassian"/> <img src="https://img.icons8.com/color/48/linux--v1.png" width="30" title="Linux"/> |
 
 ---
